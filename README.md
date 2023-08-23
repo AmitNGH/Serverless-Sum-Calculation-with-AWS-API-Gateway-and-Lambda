@@ -1,6 +1,6 @@
-## Home Assignment for CloudBuzz
+# Home Assignment for CloudBuzz
 
-# Usage Instructions:
+## Usage Instructions:
 
 
 
